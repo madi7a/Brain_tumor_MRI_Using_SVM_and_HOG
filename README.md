@@ -7,7 +7,7 @@ This project focuses on **classifying brain tumors from MRI images** using **Sup
 - **Source**: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 - **Classes Used**:  
   - **No Tumor**  
-  - **Pituitary**  
+  - **Meningioma**  
 - The model was tested on **all tumor types** in the dataset, including Glioma and Pituitary tumors.  
 
 ## 🛠️ Technologies Used  
